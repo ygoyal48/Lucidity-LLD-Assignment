@@ -1,6 +1,6 @@
 # Lucidity-LLD-Assignment
 
-Hi team, I have designed this Delivery Optimizer System in Java which will tell the shortest route to the Delivery Partner(Aman in our case). Here is the file structure of the app - 
+Hi team, I have designed this Delivery Optimizer System in Java which will tell the shortest route to the Delivery Partner(Aman in our case). Here is the file structure of the project - 
 
 <img width="453" alt="Screenshot 2025-02-23 at 8 36 32 PM" src="https://github.com/user-attachments/assets/40ab9de6-2453-483b-aa5b-9e6bfd7b6965" />
 
